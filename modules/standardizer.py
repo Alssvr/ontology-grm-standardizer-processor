@@ -7,7 +7,7 @@ from collections import defaultdict
 
 class ValueStandardizer:
     """
-    Класс для стандартизации значений атрибутов
+    Класс для стандартизации значений атрибутов классов
     """
     
     def __init__(self, input_dir: Path):
